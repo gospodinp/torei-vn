@@ -1,6 +1,7 @@
 *.py[co]
-# Add Ren'Py specific compiled files as well.
-*.rpy[co]
+# Add Ren'Py-specific compiled files as well.
+*.rpy[cb]
+*.bak
 
 # Packages
 *.egg
