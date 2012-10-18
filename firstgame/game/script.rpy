@@ -44,9 +44,9 @@ label start:
 
     "Men from other stars want to come here."
 
-    "This is as new as space to us: we're not used to seeing so many men.  For all you hear about our plight, we are a planet of women."
+    "This is as new as space to us: we're not used to seeing so many men around here.  For all you hear about our plight, we are a planet of women."
 
-    "But offworld men find us alluring.  I suppose that women from other stars do not learn to cherish and obey men as we have."
+    "But offworld men find us alluring.  I suppose that women from other stars do not learn to cherish and obey men as we have. At least to our extent."
 
     show bg apt with dissolve:
         xpos 0 ypos 0
