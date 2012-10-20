@@ -2,6 +2,8 @@
 # Add Ren'Py-specific compiled files as well.
 *.rpy[cb]
 *.bak
+# Ren'Py error log output
+errors.txt
 
 # Packages
 *.egg
